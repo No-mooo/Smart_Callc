@@ -7,5 +7,5 @@
 
 ## Main file
 ```
-test.c
+smart_callc.c
 ```
