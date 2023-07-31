@@ -5,7 +5,7 @@
 ~ 12.05.2022
 ```
 
-## Main filr
+## Main file
 ```
 test.c
 ```
